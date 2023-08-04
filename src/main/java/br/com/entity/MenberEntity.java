@@ -7,4 +7,5 @@ import jakarta.persistence.Table;
 @Table(name = "Menber")
 public class MenberEntity {
     
+    private String name;
 }
